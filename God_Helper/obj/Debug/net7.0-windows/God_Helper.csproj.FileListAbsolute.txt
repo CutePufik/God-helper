@@ -1,0 +1,15 @@
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\bin\Debug\net7.0-windows\God_Helper.exe
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\bin\Debug\net7.0-windows\God_Helper.deps.json
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\bin\Debug\net7.0-windows\God_Helper.runtimeconfig.json
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\bin\Debug\net7.0-windows\God_Helper.dll
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\bin\Debug\net7.0-windows\God_Helper.pdb
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\God_Helper.csproj.AssemblyReference.cache
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\God_Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\God_Helper.AssemblyInfoInputs.cache
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\God_Helper.AssemblyInfo.cs
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\God_Helper.csproj.CoreCompileInputs.cache
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\God_Helper.dll
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\refint\God_Helper.dll
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\God_Helper.pdb
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\God_Helper.genruntimeconfig.cache
+C:\Users\sasac\RiderProjects\God_Helper\God_Helper\obj\Debug\net7.0-windows\ref\God_Helper.dll
