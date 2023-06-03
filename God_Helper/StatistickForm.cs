@@ -23,6 +23,7 @@ public partial class StatistickForm : Form
         InitializeComponent();
         this.theme = theme;
         init();
+        this.WindowState = FormWindowState.Maximized;
     }
 
     private void init()

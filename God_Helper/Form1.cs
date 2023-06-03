@@ -26,6 +26,7 @@ public partial class Form1 : Form
     {
         InitializeComponent();
         initButtons();
+        this.WindowState = FormWindowState.Maximized;
     }
 
     private void initButtons()

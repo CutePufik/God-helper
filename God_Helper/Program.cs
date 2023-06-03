@@ -12,9 +12,14 @@ static class Program
         // see https://aka.ms/applicationconfiguration.
         ApplicationConfiguration.Initialize();
         
-        //Application.Run(new Form1());
-        Application.Run(new Form2("Алгебра")); //TODO дизайн
-        //Application.Run(new StatistickForm("Алгебра"));
+        Application.Run(new Form1());
+        /*
+         * Дополнение "бонус" показывает, что метод повторения работает.
+         * Плюс намеренно не учитывается ответы на бонусные вопросы. Кроме того, весь функционал,
+         * включая тупую задумку с нажатием кнопки "неправильно",
+         * сделан намеренно, проблема не в коде, а с моей головой...
+         * В любом случае мне понравилось!!
+         */
        
     }
 }

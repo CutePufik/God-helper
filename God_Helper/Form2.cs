@@ -48,6 +48,7 @@ public partial class Form2 : Form
         InitializeComponent();
         initButtons();
         mainGame();
+        this.WindowState = FormWindowState.Maximized;
     }
 
     private void initButtons()
@@ -226,7 +227,6 @@ public partial class Form2 : Form
             trainer._question = (allQuestion[randomIndex].name);
             trainer._answer = (allQuestion[randomIndex].answer);
             countForBonusQuestion++;
-            indexFormula++;
             isNowBonus = true;
             return;
         }
@@ -241,8 +241,8 @@ public partial class Form2 : Form
         var indexQuestion = listQuestions.IndexOf(formula); 
         trainer.removeRigthAnswerFromStatisticks(indexQuestion);
         
-        
-        if (indexFormula == listQuestions.Count-1)
+        indexFormula++;
+        if (indexFormula == listQuestions.Count)
         {
             recordResult();
             showResults();
@@ -250,10 +250,8 @@ public partial class Form2 : Form
             countWrongAnswers = 0;
             trainer.clearStatistickFileFromLitter();   // ???
             hideAnswersButtons();
-            
-            
         }
-        indexFormula++;
+        
         countForBonusQuestion++;
         //askForQuestion(formula, indexQuestion);
          // if (countForBonusQuestion % 3 == 0)
