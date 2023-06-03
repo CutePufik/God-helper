@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sasac\\RiderProjects\\God_Helper\\God_Helper\\God_Helper.csproj",
+      "projectUniqueName": "C:\\Users\\sasac\\RiderProjects\\God_Helper\\God-helper\\God_Helper\\God_Helper.csproj",
       "projectName": "God_Helper",
-      "projectPath": "C:\\Users\\sasac\\RiderProjects\\God_Helper\\God_Helper\\God_Helper.csproj",
+      "projectPath": "C:\\Users\\sasac\\RiderProjects\\God_Helper\\God-helper\\God_Helper\\God_Helper.csproj",
       "packagesPath": "C:\\Users\\sasac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sasac\\RiderProjects\\God_Helper\\God_Helper\\obj\\",
+      "outputPath": "C:\\Users\\sasac\\RiderProjects\\God_Helper\\God-helper\\God_Helper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sasac\\AppData\\Roaming\\NuGet\\NuGet.Config"
