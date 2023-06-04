@@ -8,8 +8,8 @@ static class Program
     [STAThread]
     static void Main()
     {
-        // To customize application configuration such as set high DPI settings or default font,
-        // see https://aka.ms/applicationconfiguration.
+        // я честно пытался что-то сделать с дизайном, но это вопрос к дизайнерам))
+        // чисто косметический эффект сделать уже поздновато, а так все реализовано, что уже неплохо
         ApplicationConfiguration.Initialize();
         
         Application.Run(new Form1());
